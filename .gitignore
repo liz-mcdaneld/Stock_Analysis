@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#Ignoring DS store for macs
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
