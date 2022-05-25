@@ -6,7 +6,7 @@
 
 ## Analysis and Results
 
-#### For this analysis I have created the ability for a user to run a stocks analysis to find the stock’s volumes and returns of our green energy company stocks. This allows us to see trends and outcomes so that finial decisions can be made for the best financial investment opportunities. 
+#### For this analysis I have created the ability for a user to run a stocks analysis to find the stock’s volumes and returns of our green energy companys. This allows us to see trends and outcomes so that decisions can be made for the best financial investment opportunities. 
 
 ### Using Macros in Excel’s VBA developer tools.
 
